@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\EXAM\examTime\bin\Debug\examTime.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\EXAM\examTime\bin\Debug\examTime.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\EXAM\examTime\bin\Debug\examTime.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\EXAM\examTime\obj\Debug\examTime.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\EXAM\examTime\obj\Debug\examTime.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\OOP\EXAM\examTime\obj\Debug\examTime.pdb
